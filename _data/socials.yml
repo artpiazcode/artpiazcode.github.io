@@ -1,2 +1,9 @@
-email: artpiazcode@gmail.com # your email address
-linkedin_username: arpitas # your LinkedIn user name
+# this file contains the social media links and usernames of the author
+
+email: artpiazcode@gmail.com 
+linkedin_username: arpitas 
+rss_icon: true # set to true to show the RSS icon
+custom_social: # can be any name here other than the ones already defined above
+  logo: 
+  title: 
+  url: 
