@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /learnings/
-title: learnings
+title: Learnings
 nav: true
 nav_order: 1
 pagination:
