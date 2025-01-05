@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Builder with interests in Applied AI/ML powered solutions, particularly in NLP/NLU, LLMs and Generative AI.
+I am interested in Applied AI/ML, particularly in NLP/NLU, LLMs and Generative AI.
 
 Currently contributing to <a href='https://www.tempus.com'>Tempus AI</a>.
 
