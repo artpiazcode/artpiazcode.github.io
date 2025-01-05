@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/learnings/index.html";
           },
         },{id: "nav-past-work",
-          title: "past work",
+          title: "Past Work",
           description: "",
           section: "Navigation",
           handler: () => {
