@@ -1,6 +1,6 @@
 ---
 layout: page
-title: past work
+title: Past Work
 permalink: /projects/
 description:
 nav: true
