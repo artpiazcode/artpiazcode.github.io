@@ -12,7 +12,7 @@ profile:
 
 learnings: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Builder with interests in Applied AI/ML powered solutions, particularly in NLP/NLU, LLMs and Generative AI.
