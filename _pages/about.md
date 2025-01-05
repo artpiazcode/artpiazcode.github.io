@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
@@ -18,4 +18,5 @@ social: false # includes social icons at the bottom of the page
 Builder with interests in Applied AI/ML powered solutions, particularly in NLP/NLU, LLMs and Generative AI.
 
 Currently contributing to <a href='https://www.tempus.com'>Tempus AI</a>.
-Previously with <a href='https://www.google.com'>Google Inc.</a> 
+
+Previously at <a href='https://www.google.com'>Google Inc.</a> 
