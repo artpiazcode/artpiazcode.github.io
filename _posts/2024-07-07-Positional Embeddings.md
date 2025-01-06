@@ -1,3 +1,16 @@
+---
+layout: post
+title: Positional Embeddings
+date: 2024-07-07
+tags: transformer
+categories: concepts
+giscus_comments: false
+related_posts: true
+related_publications: true
+toc:
+  sidebar: left
+---
+
 One of the key component for transformers are <b>positional embeddings</b>.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -23,7 +36,6 @@ The goal for position encoding is to enable supervision for dependency modeling 
         {% include figure.liquid loading="eager" path="assets/img/RoPE.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 
 RoPE encodes the absolute position with a rotation matrix and meanwhile incorporates the explicit relative position dependency in self attention formulation. 
 - Flexibility of sequence length
