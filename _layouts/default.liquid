@@ -19,13 +19,7 @@
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
     <!-- Header -->
     {% include header.liquid %}
-
-    <div class="post distill">
-      <d-title>
-        <h1>{{ page.title }}</h1>
-        <p>{{ page.description }}</p>
-      </d-title>
-    </div>
+    <p>{{ page.description }}</p>
 
     <!-- Content -->
     <div class="container mt-5" role="main">
