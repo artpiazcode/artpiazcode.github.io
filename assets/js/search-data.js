@@ -34,15 +34,15 @@ ninja.data = [{
           window.location.href = "/blog/2024/ModernBERT/";
         
       },
-    },{id: "post-positionalembeddings",
+    },{id: "post-positional-embeddings",
       
-        title: "Positionalembeddings",
+        title: "Positional Embeddings",
       
       description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/PositionalEmbeddings/";
+          window.location.href = "/blog/2024/Positional-Embeddings/";
         
       },
     },{
