@@ -27,7 +27,7 @@ ninja.data = [{
       
         title: "ModernBERT",
       
-      description: "an example of a blog post with table of contents on a sidebar",
+      description: "ModernBERT",
       section: "Posts",
       handler: () => {
         
