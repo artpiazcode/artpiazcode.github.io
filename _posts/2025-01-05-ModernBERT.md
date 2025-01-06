@@ -1,47 +1,38 @@
 ---
 layout: post
 title: ModernBERT
-date: 2025-01-05 10:14:00-0400
+date: 2024-12-25
 description: ModernBERT
 tags: bert
-categories: learnings
-giscus_comments: true
+categories: paper-readings
+giscus_comments: false
 related_posts: true
+related_publications: true
 toc:
   sidebar: left
 ---
 
-This post shows how to add a table of contents as a sidebar.
+## Key takeaways
+-- Latest encoder-only transformer model. Biggest leap since RoBERTa.
+-- Developed by Answer.AI 
+-- Modernized transformer architecture
+-- Attention to efficiency
+-- Increased data scales and sources
 
-## Adding a Table of Contents
 
-To add a table of contents to a post as a sidebar, simply add
+## Links
+[Huggingface model](https://huggingface.co/docs/transformers/main/en/model_doc/modernbert)
 
-```yml
-toc:
-  sidebar: left
-```
+## Training details
 
-to the front matter of the post. The table of contents will be automatically generated from the headings in the post. If you wish to display the sidebar to the right, simply change `left` to `right`.
+-- 2 trillion tokens
+-- Native sequence length 8192 tokens
 
-### ModernBERT
+## Architectural improvements
 
-BERT is back! 
+## Rotary positional embeddings
+Why are ro
 
-### Example of another Sub-Heading 1
+### Bias terms
+What are bias terms?
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-## Customizing Your Table of Contents
-
-{:data-toc-text="Customizing"}
-
-If you want to learn more about how to customize the table of contents of your sidebar, you can check the [bootstrap-toc](https://afeld.github.io/bootstrap-toc/) documentation. Notice that you can even customize the text of the heading that will be displayed on the sidebar.
-
-### Example of Sub-Heading 2
-
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-### Example of another Sub-Heading 2
-
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.

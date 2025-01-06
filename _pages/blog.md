@@ -2,6 +2,7 @@
 layout: default
 permalink: /learnings/
 title: Learnings
+description: Publishing my scattered notes for future me! 
 nav: true
 nav_order: 1
 pagination:
