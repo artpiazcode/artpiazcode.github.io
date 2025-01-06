@@ -14,11 +14,12 @@ learnings: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Greetings!
 
-I am interested in Applied AI/ML, particularly in NLP/NLU, LLMs and Generative AI.
+I am interested in Applied AI/ML, with a particularl focus in NLP/NLU, LLMs and Generative AI.
 
-I currently work at <a href='https://www.tempus.com'>Tempus AI</a> with an amazing team of ML Scientists, Engineers and Product delivering AI powered products for advancing precision medicine.
+Currently, I work at <a href='https://www.tempus.com'>Tempus AI</a> with an amazing team of ML Scientists, Engineers and Product delivering AI powered products for advancing precision medicine.
 
-Before that, I worked at <a href='https://www.google.com'>Google Inc.</a> as an engineering leader in several PAs in abuse protection and conversational AI domains.
+Before that, I worked at <a href='https://www.google.com'>Google Inc.</a> contributing to multiple teams within the domains of abuse protection and conversational AI.
 
-For more details about my past work, see <a href="projects.md">Past Projects</a>.
+For additional details about my past work, visit my <a href="projects.md">Past Projects</a> page.

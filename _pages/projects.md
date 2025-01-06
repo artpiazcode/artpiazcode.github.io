@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /projects/
 title: Past Work
-description: showcase
+description:
 nav: true
 nav_order: 7
 
