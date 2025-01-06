@@ -2,11 +2,11 @@
 layout: post
 title: ModernBERT
 date: 2025-01-05 10:14:00-0400
-description: an example of a blog post with table of contents on a sidebar
-tags: formatting toc sidebar
-categories: sample-posts
+description: ModernBERT
+tags: bert
+categories: learnings
 giscus_comments: true
-related_posts: false
+related_posts: true
 toc:
   sidebar: left
 ---
