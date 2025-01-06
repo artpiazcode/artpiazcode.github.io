@@ -23,12 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "projects-google-ads-abuse-protection",
-          title: 'Google Ads Abuse Protection',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{
+        },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
