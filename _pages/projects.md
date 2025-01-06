@@ -12,10 +12,10 @@ profiles:
   - align: right
     image: ads.webp
     content: Ads.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info:
   - align: left
-    image: 
+    image: cloud.png
     content: Conversational_AI.md
     image_circular: false # crops the image to make it circular
     more_info:
