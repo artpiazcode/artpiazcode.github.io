@@ -17,6 +17,8 @@ social: true # includes social icons at the bottom of the page
 
 I am interested in Applied AI/ML, particularly in NLP/NLU, LLMs and Generative AI.
 
-Currently with <a href='https://www.tempus.com'>Tempus AI</a>.
+I currently work at <a href='https://www.tempus.com'>Tempus AI</a> with an amazing team of ML Scientists, Engineers and Product delivering AI powered products for advancing precision medicine.
 
-Previously worked at <a href='https://www.google.com'>Google Inc.</a> 
+Before that, I worked at <a href='https://www.google.com'>Google Inc.</a> as an engineering leader in several PAs in abuse protection and conversational AI domains.
+
+For more details about my past work, see <a href="projects.md">Past Projects</a>.
