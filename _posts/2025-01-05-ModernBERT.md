@@ -20,8 +20,6 @@ toc:
 - Increased data scales and sources
 
 
-### Links
-[Huggingface model](https://huggingface.co/docs/transformers/main/en/model_doc/modernbert)
 
 ### Training details
 
@@ -43,4 +41,8 @@ RoPE encodes the absolute position with a rotation matrix and meanwhile incorpor
 
 #### Bias terms
 What are bias terms?
+
+### References
+[Huggingface model](https://huggingface.co/docs/transformers/main/en/model_doc/modernbert)
+
 
