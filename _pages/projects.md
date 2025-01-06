@@ -11,12 +11,12 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: ads.webp
-    content: Ads.md
+    content: __abuse.md
     image_circular: false # crops the image to make it circular
     more_info:
   - align: left
     image: cloud.png
-    content: Conversational_AI.md
+    content: __convoai.md
     image_circular: false # crops the image to make it circular
     more_info:
 ---
