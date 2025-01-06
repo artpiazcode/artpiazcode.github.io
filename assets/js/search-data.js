@@ -18,12 +18,23 @@ ninja.data = [{
           },
         },{id: "nav-past-work",
           title: "Past Work",
-          description: "showcase",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{
+        },{id: "post-modernbert",
+      
+        title: "ModernBERT",
+      
+      description: "an example of a blog post with table of contents on a sidebar",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/ModernBERT/";
+        
+      },
+    },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
