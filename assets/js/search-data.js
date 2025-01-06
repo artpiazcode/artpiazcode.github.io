@@ -34,6 +34,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/ModernBERT/";
         
       },
+    },{id: "post-positionalembeddings",
+      
+        title: "Positionalembeddings",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/PositionalEmbeddings/";
+        
+      },
     },{
         id: 'social-linkedin',
         title: 'LinkedIn',
