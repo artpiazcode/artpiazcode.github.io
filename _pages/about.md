@@ -17,6 +17,6 @@ social: true # includes social icons at the bottom of the page
 
 I am interested in Applied AI/ML, particularly in NLP/NLU, LLMs and Generative AI.
 
-Currently contributing to <a href='https://www.tempus.com'>Tempus AI</a>.
+Currently with <a href='https://www.tempus.com'>Tempus AI</a>.
 
-Previously at <a href='https://www.google.com'>Google Inc.</a> 
+Previously worked at <a href='https://www.google.com'>Google Inc.</a> 
