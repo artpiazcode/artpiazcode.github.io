@@ -19,8 +19,6 @@ toc:
 - Attention to efficiency
 - Increased data scales and sources
 
-
-
 ### Training details
 
 - 2 trillion tokens
@@ -31,12 +29,6 @@ toc:
 ![alt text](positional_encoding.png)
 
 #### Rotary positional embeddings
-This was first introduced in RoFormer paer https://arxiv.org/pdf/2104.09864. The goal for position encoding is to enable supervision for dependency modeling between elements at different positions of the sequence.
-RoPE encodes the absolute position with a rotation matrix and meanwhile incorporates the explicit relative position dependency in self attention formulation. 
-- Flexibility of sequence length
-- Decaying inter-token dependency with increasing relative distances
-- Capability if equipping the linear self-attention with relative position encoding. 
-
 
 
 #### Bias terms
