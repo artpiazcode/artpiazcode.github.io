@@ -45,6 +45,28 @@ ninja.data = [{
           window.location.href = "/blog/2024/Positional-Embeddings/";
         
       },
+    },{id: "post-bert",
+      
+        title: "BERT",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/BERT/";
+        
+      },
+    },{id: "post-transformers",
+      
+        title: "Transformers",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/Transformers/";
+        
+      },
     },{
         id: 'social-linkedin',
         title: 'LinkedIn',
